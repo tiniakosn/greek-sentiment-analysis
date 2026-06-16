@@ -1,0 +1,8 @@
+pandas          # Για τη διαχείριση του dataset (άνοιγμα CSV, καθαρισμός στηλών).
+scikit-learn    # Για το Baseline μοντέλο (Naive Bayes/Logistic Regression) και τις μετρικές (Accuracy, F1-Score, κλπ).
+torch           # H "μηχανή" του Deep Learning (PyTorch) πάνω στην οποία τρέχουν τα Transformers.
+transformers    # Η βιβλιοθήκη της Hugging Face για να κατεβάσουμε το GreekBERT.
+lime            # Το εργαλείο Explainability για τα κλασικά μοντέλα.
+shap            # Το εργαλείο Explainability για το GreekBERT.
+matplotlib      # Για να φτιάξουμε τα γραφήματα (Confusion Matrix, LIME plots).
+seaborn         # Για να κάνουμε τα γραφήματα πιο όμορφα για την αναφορά.
